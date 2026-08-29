@@ -1,0 +1,30 @@
+# Source books and extracted corpora
+*.epub
+*.mobi
+*.azw3
+corpus/
+data/raw/
+data/processed/
+
+# Model artifacts and training output
+checkpoints/
+outputs/
+runs/
+wandb/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example

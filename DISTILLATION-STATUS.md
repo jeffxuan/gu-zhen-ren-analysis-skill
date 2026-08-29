@@ -29,4 +29,4 @@ It now also includes decision canvases for individual actors, institutions, fact
 
 An RTX 4090 is optional for step 2 only if a local language model is used to draft annotations in batches. It is not required for the actual distillation: the quality bottleneck is source traceability and human review, not GPU compute.
 
-The previous VS Code Remote-SSH attempt could not reach `172.19.36.172` and timed out, so no GPU workload was started.
+No GPU workload or model training is included in this release.

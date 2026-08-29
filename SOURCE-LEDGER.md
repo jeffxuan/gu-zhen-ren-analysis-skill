@@ -2,7 +2,7 @@
 
 ## Primary corpus
 
-- File: `/Users/jeff.jiang/Downloads/dokumen.pub_4fe24a77b9e01e7940c7e0973c448e77.epub`
+- Source type: user-supplied EPUB (not included in this repository)
 - EPUB metadata title: `蛊真人`
 - EPUB metadata creator: `蛊真人`
 - Language: Chinese (`zh`)
