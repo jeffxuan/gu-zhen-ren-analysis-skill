@@ -1,5 +1,7 @@
 # Strategic Fantasy Writing
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A Codex skill for strategic narrative analysis, original progression-fantasy design, outline stress testing, and story-grounded classical-style Chinese poetry.
 
 The project began as a high-level structural study of a user-supplied *Gu Zhen Ren* EPUB. It contains no novel text, model weights, or training corpus. It does not imitate the source's author, prose, or poetry.
