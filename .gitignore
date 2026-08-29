@@ -16,6 +16,9 @@ wandb/
 *.pt
 *.pth
 *.bin
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
 
 # Local environments and caches
 .venv/

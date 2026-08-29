@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strategic Fantasy Writing"
+  short_description: "Design strategic fantasy and character-grounded Chinese verse"
+  default_prompt: "Use $strategic-fantasy-writing to analyze this original scene and create a character-grounded classical-style Chinese poem."
